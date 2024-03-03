@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 First fork the repo.
 
 Clone the repository by using this command in your terminal:
-bash$ git clone https://github.com/mohamedelzarei/Todo-app.git
+bash$ git clone https://github.com/ichigo-k/Todo-App.git
 
 Open the project folder with any text editor or IDE 
 

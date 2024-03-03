@@ -18,7 +18,7 @@ Cd to  the cloned directory $ cd Todo-app
 
 Install all dependencies by running npm install from your terminal inside the project folder
 
-Run bash$ npm run dev, this would start the app at http://localhost:5173
+Run $ npm run dev, this would start the app at http://localhost:5173
 
 Don't forget to star this repo if you found it helpful
 
